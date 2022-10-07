@@ -1,1 +1,1 @@
-This project will be for a friend's photography as she is  turning into a side gig.
+This project will be for a friend who is a photographer. She is turning her hobby into a side gig.
