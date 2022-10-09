@@ -1,0 +1,13 @@
+html {
+    background-color: orangered;
+}
+
+body {
+    color: bisque;
+    font-size: medium;
+    font-family: Verdana;
+}
+
+h1, h2, h3 {
+    font-style: italic;
+}
