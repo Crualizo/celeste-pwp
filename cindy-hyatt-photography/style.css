@@ -10,3 +10,9 @@ img{
     box-shadow: 10px 5px 5px tomato;
 }
 
+#button{
+    box-shadow: 2px 2px 2px 2px tomato;
+    font-style: italic;
+    font-size: large;
+    border-radius: 10px 100px / 120px;
+}
