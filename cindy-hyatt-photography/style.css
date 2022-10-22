@@ -1,8 +1,16 @@
-html body{
+html body {
     background: lightsalmon;
-    font-family: Serif;
+    font-family: SansSerif;
 }
 
+
+#nav{
+    background: lightsalmon;
+}
+
+h1{
+    color: black;
+}
 
 img{
     max-width: 100%;
@@ -10,9 +18,10 @@ img{
     box-shadow: 10px 5px 5px tomato;
 }
 
+
 #button{
     box-shadow: 2px 2px 2px 2px tomato;
     font-style: italic;
-    font-size: large;
+    color: whitesmoke;
     border-radius: 10px 100px / 120px;
 }
