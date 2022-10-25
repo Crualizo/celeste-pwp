@@ -1,8 +1,10 @@
 html body {
     background: lightseagreen;
-    font-family: SansSerif;
+    font-family: Verdana
 }
-
+ h1 {
+     color: whitesmoke;
+ }
 
 #nav{
     background: lightseagreen;
@@ -15,10 +17,14 @@ img{
     cursor: pointer;
 }
 
+#gallery-popup .modal-img {
+    width: 100%;
+}
 
-#button{
+
+.btn{
     box-shadow: 2px 2px 2px 2px teal;
     font-style: italic;
-    color: whitesmoke;
     border-radius: 10px 100px / 120px;
 }
+
