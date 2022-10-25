@@ -1,10 +1,7 @@
 html body {
     background: lightseagreen;
-    font-family: Verdana
+    font-family: SansSerif;
 }
- h1 {
-     color: whitesmoke;
- }
 
 #nav{
     background: lightseagreen;
@@ -22,9 +19,8 @@ img{
 }
 
 
-.btn{
+.btnn{
     box-shadow: 2px 2px 2px 2px teal;
     font-style: italic;
-    border-radius: 10px 100px / 120px;
 }
 
