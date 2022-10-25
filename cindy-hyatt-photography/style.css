@@ -1,22 +1,23 @@
 html body {
-    background: lightsalmon;
+    background: lightseagreen;
     font-family: SansSerif;
 }
 
 
 #nav{
-    background: lightsalmon;
+    background: lightseagreen;
 }
 
 img{
     max-width: 100%;
     border-radius: 3%;
-    box-shadow: 10px 5px 5px tomato;
+    box-shadow: 10px 10px 5px teal;
+    cursor: pointer;
 }
 
 
 #button{
-    box-shadow: 2px 2px 2px 2px tomato;
+    box-shadow: 2px 2px 2px 2px teal;
     font-style: italic;
     color: whitesmoke;
     border-radius: 10px 100px / 120px;
