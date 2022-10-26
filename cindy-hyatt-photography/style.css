@@ -1,26 +1,27 @@
 html body {
-    background: lightseagreen;
-    font-family: SansSerif;
+    background: #A52A2A;
+    font-family: Serif;
 }
 
 #nav{
-    background: lightseagreen;
+    background: #A52A2A;
 }
 
 img{
     max-width: 100%;
     border-radius: 3%;
-    box-shadow: 10px 10px 5px teal;
+    box-shadow: 10px 10px 5px #800000;
     cursor: pointer;
 }
 
 #gallery-popup .modal-img {
     width: 100%;
+    background-color: #A52A2A;
 }
 
 
-.btnn{
-    box-shadow: 2px 2px 2px 2px teal;
+.btn{
+    box-shadow: 2px 2px 2px 2px #800000;
     font-style: italic;
 }
 
