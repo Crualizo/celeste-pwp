@@ -32,9 +32,6 @@ h1 {
 }
 
 
-
-
-
 #nav{
     background: #A52A2A;
 }
@@ -57,3 +54,10 @@ img{
     font-style: italic;
 }
 
+
+footer .container {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 4fr 1fr 1fr 1fr;
+    grid-gap: 20px
+}
