@@ -7,8 +7,3 @@ document.addEventListener("click",function (e) {
     }
 })
 
-function scrollDiv() {
-    let scroll = document.getElementById('landscapes')
-    scroll.scrollIntoView();
-
-}
