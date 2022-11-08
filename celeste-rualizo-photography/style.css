@@ -19,11 +19,15 @@ img{
 }
 
 header {
-    background-image: url("./Landscapes/bisti1.jpg");
+    background-image: url("./Seascapes/marina.jpg");
     height: 100vh;
     min-height: 400px;
     background-size: cover;
 
+}
+
+span {
+    color: maroon;
 }
 
 .navbar .container .collapse .navbar-nav .nav-link {
