@@ -47,61 +47,8 @@ span {
     color: black;
 }
 
-footer .container .sec p {
-    color: black;
-}
 
-footer .container {
-    width: 100%;
-    display: grid;
-    grid-template-columns: 2fr 1fr 1fr 1fr;
-    grid-gap: 20px
-}
-
-footer .container .sec h2 {
-    position: relative;
-    color: black;
-    font-weight: 500;
-    margin-bottom: 15px;
-}
-
-footer .container .sec h2::before {
-    content: '';
-    position: absolute;
-    bottom: -5px;
-    left: 0;
-    width: 50px;
-    height: 2px;
-}
-
-
-.quicklinks {
-    color: black;
-}
-
-.quicklinks a {
-    color: black;
-    font-size: 40px;
-    position: relative;
-    list-style: none;
-    width: 48px;
-    height: 48px;
-    align-content: center;
-    justify-content: center;
-    text-decoration: none;
-    border-radius: 4px;
-}
-
-.quicklinks a:hover {
-    color: teal;
-}
-
-
-.contact {
-    color: black;
-    text-decoration: none;
-}
-
+/* SOCIAL MEDIA */
 .contact a i {
     font-size: 40px;
     color: black;
@@ -112,13 +59,17 @@ footer .container .sec h2::before {
 }
 
 
-
-
-
-.contact a:hover {
-    color: tomato;
-
+/* BACK TO TOP LINK */
+.link {
+    color: black;
+    font-size: 20px;
 }
+
+.top .link:hover {
+    color: teal;
+}
+
+
 
 .copyrighttext {
     width: 100%;
