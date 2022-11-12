@@ -13,7 +13,7 @@ img{
 }
 
 header {
-    background-image: url("./Seascapes/background.jpg");
+    background-image: url("./Seascapes/marina.jpg");
     height: 100vh;
     min-height: 400px;
     background-size: cover;
@@ -44,7 +44,7 @@ span {
 
 /* SOCIAL MEDIA */
 .contact a i {
-    font-size: 40px;
+    font-size: 50px;
     color: black;
 }
 
